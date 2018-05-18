@@ -1,0 +1,40 @@
+
+|  1 | Francisco Alvarez       | falvarez@udo.edu.ve                      |
+|  2 | Americo Montilla        | amontilla@udo.edu.ve                     |
+|  3 | Jorge Rojas             | jrojas@udo.edu.ve                        |
+|  4 | Luis Beauperthuy        | luisboper@yahoo.es                       |
+|  5 | Jaime Avendaño          | javendano@udo.edu.ve                     |
+|  6 | Jesus Contreras         | jecvera@hotmail.com                      |
+|  7 | Jhonny Gonzalez         | jjgonzalez@udo.edu.ve                    |
+|  8 | Claudio Marchan         | cmarchan@udo.edu.ve                      |
+| 19 | Liangel Brito           | liangelve@hotmail.com                    |
+| 10 | Jose Anton              | jantoncenteno@hotmail.com                |
+| 11 | Janette Castillo        | cjanette@hotmail.com                     |
+| 12 | Victor Diaz             | vdiaz@udo.edu.ve                         |
+| 13 | Hernan Maneiro          | hmaneiro@udo.edu.ve                      |
+| 14 | Damaso Reyes            | dreyes@udo.edu.ve                        |
+| 15 | Claudio Marchan         | cla_m_s@hotmail.com                      |
+| 16 | Luis Beauperthuy        | luisboper@yahoo.com                      |
+| 17 | Margarita Nemoto        | mnemotom1@yahoo.es                       |
+| 18 | Ofelia Flores           | oyflores@udo.edu.ve                      |
+| 20 | Francisco Alvarez       | faove@hotmail.com                        |
+| 21 | Hernan Maneiro          | hernanjmv@hotmail.com                    |
+| 22 | Rufino Valladares       | ruffovalla@gmail.com                     |
+| 23 | Stephanie Contreras     | stephaniecontrerasf@gmail.com            |
+| 24 | Jose Luna               | luna@udo.edu.ve                          |
+| 25 | Gabriel Rojas           | gabriel@udo.edu.ve                       |
+| 26 | Cesar A Rodriguez G     | cero@udo.edu.ve                          |
+| 27 | Rafael Antonio Figueroa | rafael.antonio.figueroa.obando@gmail.com |
+| 28 | Tayra Bermudez          | tayra.bermudez@udo.edu.ve                |
+| 29 | Abul Bashirullah        | bashiru@udo.edu.ve                       |
+| 30 | Erasto Bastardo         | erbastardo@gmail.com                     |
+| 31 | Francisco Bonive        | fbonive@udo.edu.ve                       |
+| 32 | Janette Castillo        | jcastillo@udo.edu.ve                     |
+| 33 | Ofelia Flores           | ofeliafloresm@gmail.com                  |
+| 34 | Jorge Rojas             | rogojorge@gmail.com                      |
+| 35 | Americo Montilla        | americo.montilla@gmail.com               |
+| 36 | Willian Garcia          | garciawilli@hotmail.com                  |
+| 37 | Jam franco              | jfranco_76@hotmail.com                   |
+| 38 | Jorge Rojas             | jlrojas@udo.edu.ve                       |
+| 39 | Nelson Marrufo          | nelsonmarruffo@hotmail.com               |
+| 40 | Jealitza Roux           | jealitza@gmail.com  
